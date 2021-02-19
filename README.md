@@ -1,5 +1,14 @@
-Avid Python and Linux user.
+# Maciej "RooTer" Urbański
 
-Maker.
+Avid Python 🐍 and Linux 🐧 user.
+Maker 🛠 .
 
-Work related contact: https://www.linkedin.com/in/urbanskimaciej/
+Work related contact: https://linkedin.com/in/urbanskimaciej
+
+## Stats
+
+![](https://komarev.com/ghpvc/?username=rooterkyberian&color=lightgrey)
+
+### Latest GitHub activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
