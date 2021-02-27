@@ -5,6 +5,11 @@ Maker 🛠 .
 
 Work related contact: https://linkedin.com/in/urbanskimaciej
 
+## Other media
+
+https://instagram.com/maciej.j.u Baking & making
+https://thingiverse.com/rooter_k 3D models
+
 ## Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=rooterkyberian&hide_title=true&show_icons=true&count_private=true&theme=graywhite)
