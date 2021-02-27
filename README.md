@@ -7,8 +7,8 @@ Work related contact: https://linkedin.com/in/urbanskimaciej
 
 ## Other media
 
-https://instagram.com/maciej.j.u Baking & making
-https://thingiverse.com/rooter_k 3D models
+* https://instagram.com/maciej.j.u Baking & making
+* https://thingiverse.com/rooter_k 3D models
 
 ## Stats
 
