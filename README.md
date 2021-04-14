@@ -17,9 +17,9 @@ Work related contact: https://linkedin.com/in/urbanskimaciej
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#703](https://github.com/ASKBOT/askbot-devel/issues/703) in [ASKBOT/askbot-devel](https://github.com/ASKBOT/askbot-devel)
-2. 🎉 Merged PR [#1](https://github.com/rooterkyberian/syma/pull/1) in [rooterkyberian/syma](https://github.com/rooterkyberian/syma)
-3. 🎉 Merged PR [#2](https://github.com/rooterkyberian/upy_fan/pull/2) in [rooterkyberian/upy_fan](https://github.com/rooterkyberian/upy_fan)
-4. 🎉 Merged PR [#2](https://github.com/rooterkyberian/wall-code-snippets/pull/2) in [rooterkyberian/wall-code-snippets](https://github.com/rooterkyberian/wall-code-snippets)
-5. 🗣 Commented on [#340](https://github.com/singingwolfboy/flask-dance/issues/340) in [singingwolfboy/flask-dance](https://github.com/singingwolfboy/flask-dance)
+1. ❗️ Opened issue [#1](https://github.com/raw-labs/raw-python-flask-auth0/issues/1) in [raw-labs/raw-python-flask-auth0](https://github.com/raw-labs/raw-python-flask-auth0)
+2. 🗣 Commented on [#703](https://github.com/ASKBOT/askbot-devel/issues/703) in [ASKBOT/askbot-devel](https://github.com/ASKBOT/askbot-devel)
+3. 🎉 Merged PR [#1](https://github.com/rooterkyberian/syma/pull/1) in [rooterkyberian/syma](https://github.com/rooterkyberian/syma)
+4. 🎉 Merged PR [#2](https://github.com/rooterkyberian/upy_fan/pull/2) in [rooterkyberian/upy_fan](https://github.com/rooterkyberian/upy_fan)
+5. 🎉 Merged PR [#2](https://github.com/rooterkyberian/wall-code-snippets/pull/2) in [rooterkyberian/wall-code-snippets](https://github.com/rooterkyberian/wall-code-snippets)
 <!--END_SECTION:activity-->
