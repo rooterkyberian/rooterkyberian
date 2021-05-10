@@ -18,8 +18,8 @@ Work related contact: https://linkedin.com/in/urbanskimaciej
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#21](https://github.com/bmerry/birdisle-py/issues/21) in [bmerry/birdisle-py](https://github.com/bmerry/birdisle-py)
-2. 🗣 Commented on [#703](https://github.com/ASKBOT/askbot-devel/issues/703) in [ASKBOT/askbot-devel](https://github.com/ASKBOT/askbot-devel)
-3. 🎉 Merged PR [#1](https://github.com/rooterkyberian/syma/pull/1) in [rooterkyberian/syma](https://github.com/rooterkyberian/syma)
-4. 🎉 Merged PR [#2](https://github.com/rooterkyberian/upy_fan/pull/2) in [rooterkyberian/upy_fan](https://github.com/rooterkyberian/upy_fan)
-5. 🎉 Merged PR [#2](https://github.com/rooterkyberian/wall-code-snippets/pull/2) in [rooterkyberian/wall-code-snippets](https://github.com/rooterkyberian/wall-code-snippets)
+2. 🗣 Commented on [#21](https://github.com/bmerry/birdisle-py/issues/21) in [bmerry/birdisle-py](https://github.com/bmerry/birdisle-py)
+3. 🗣 Commented on [#703](https://github.com/ASKBOT/askbot-devel/issues/703) in [ASKBOT/askbot-devel](https://github.com/ASKBOT/askbot-devel)
+4. 🎉 Merged PR [#1](https://github.com/rooterkyberian/syma/pull/1) in [rooterkyberian/syma](https://github.com/rooterkyberian/syma)
+5. 🎉 Merged PR [#2](https://github.com/rooterkyberian/upy_fan/pull/2) in [rooterkyberian/upy_fan](https://github.com/rooterkyberian/upy_fan)
 <!--END_SECTION:activity-->
