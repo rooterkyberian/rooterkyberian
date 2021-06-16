@@ -17,9 +17,9 @@ Work related contact: https://linkedin.com/in/urbanskimaciej
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/domanchi/gibberish-detector/issues/2) in [domanchi/gibberish-detector](https://github.com/domanchi/gibberish-detector)
-2. 🗣 Commented on [#211](https://github.com/isaacs/node-graceful-fs/issues/211) in [isaacs/node-graceful-fs](https://github.com/isaacs/node-graceful-fs)
-3. 💪 Opened PR [#27](https://github.com/bmerry/birdisle-py/pull/27) in [bmerry/birdisle-py](https://github.com/bmerry/birdisle-py)
-4. 🗣 Commented on [#21](https://github.com/bmerry/birdisle-py/issues/21) in [bmerry/birdisle-py](https://github.com/bmerry/birdisle-py)
+1. 💪 Opened PR [#83](https://github.com/informagi/REL/pull/83) in [informagi/REL](https://github.com/informagi/REL)
+2. 🗣 Commented on [#2](https://github.com/domanchi/gibberish-detector/issues/2) in [domanchi/gibberish-detector](https://github.com/domanchi/gibberish-detector)
+3. 🗣 Commented on [#211](https://github.com/isaacs/node-graceful-fs/issues/211) in [isaacs/node-graceful-fs](https://github.com/isaacs/node-graceful-fs)
+4. 💪 Opened PR [#27](https://github.com/bmerry/birdisle-py/pull/27) in [bmerry/birdisle-py](https://github.com/bmerry/birdisle-py)
 5. 🗣 Commented on [#21](https://github.com/bmerry/birdisle-py/issues/21) in [bmerry/birdisle-py](https://github.com/bmerry/birdisle-py)
 <!--END_SECTION:activity-->
