@@ -17,9 +17,9 @@ Work related contact: https://linkedin.com/in/urbanskimaciej
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#834](https://github.com/comunica/comunica/issues/834) in [comunica/comunica](https://github.com/comunica/comunica)
-2. 💪 Opened PR [#338](https://github.com/thunlp/OpenNRE/pull/338) in [thunlp/OpenNRE](https://github.com/thunlp/OpenNRE)
-3. 💪 Opened PR [#83](https://github.com/informagi/REL/pull/83) in [informagi/REL](https://github.com/informagi/REL)
-4. 🗣 Commented on [#2](https://github.com/domanchi/gibberish-detector/issues/2) in [domanchi/gibberish-detector](https://github.com/domanchi/gibberish-detector)
-5. 🗣 Commented on [#211](https://github.com/isaacs/node-graceful-fs/issues/211) in [isaacs/node-graceful-fs](https://github.com/isaacs/node-graceful-fs)
+1. 🗣 Commented on [#834](https://github.com/comunica/comunica/issues/834) in [comunica/comunica](https://github.com/comunica/comunica)
+2. ❗️ Opened issue [#834](https://github.com/comunica/comunica/issues/834) in [comunica/comunica](https://github.com/comunica/comunica)
+3. 💪 Opened PR [#338](https://github.com/thunlp/OpenNRE/pull/338) in [thunlp/OpenNRE](https://github.com/thunlp/OpenNRE)
+4. 💪 Opened PR [#83](https://github.com/informagi/REL/pull/83) in [informagi/REL](https://github.com/informagi/REL)
+5. 🗣 Commented on [#2](https://github.com/domanchi/gibberish-detector/issues/2) in [domanchi/gibberish-detector](https://github.com/domanchi/gibberish-detector)
 <!--END_SECTION:activity-->
