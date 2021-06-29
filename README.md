@@ -17,9 +17,9 @@ Work related contact: https://linkedin.com/in/urbanskimaciej
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#338](https://github.com/thunlp/OpenNRE/pull/338) in [thunlp/OpenNRE](https://github.com/thunlp/OpenNRE)
-2. 💪 Opened PR [#83](https://github.com/informagi/REL/pull/83) in [informagi/REL](https://github.com/informagi/REL)
-3. 🗣 Commented on [#2](https://github.com/domanchi/gibberish-detector/issues/2) in [domanchi/gibberish-detector](https://github.com/domanchi/gibberish-detector)
-4. 🗣 Commented on [#211](https://github.com/isaacs/node-graceful-fs/issues/211) in [isaacs/node-graceful-fs](https://github.com/isaacs/node-graceful-fs)
-5. 💪 Opened PR [#27](https://github.com/bmerry/birdisle-py/pull/27) in [bmerry/birdisle-py](https://github.com/bmerry/birdisle-py)
+1. ❗️ Opened issue [#834](https://github.com/comunica/comunica/issues/834) in [comunica/comunica](https://github.com/comunica/comunica)
+2. 💪 Opened PR [#338](https://github.com/thunlp/OpenNRE/pull/338) in [thunlp/OpenNRE](https://github.com/thunlp/OpenNRE)
+3. 💪 Opened PR [#83](https://github.com/informagi/REL/pull/83) in [informagi/REL](https://github.com/informagi/REL)
+4. 🗣 Commented on [#2](https://github.com/domanchi/gibberish-detector/issues/2) in [domanchi/gibberish-detector](https://github.com/domanchi/gibberish-detector)
+5. 🗣 Commented on [#211](https://github.com/isaacs/node-graceful-fs/issues/211) in [isaacs/node-graceful-fs](https://github.com/isaacs/node-graceful-fs)
 <!--END_SECTION:activity-->
