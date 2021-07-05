@@ -5,6 +5,8 @@ Maker 🛠 .
 
 Work related contact: https://linkedin.com/in/urbanskimaciej
 
+At the moment working @ ![STX Next](https://www.stxnext.com/hubfs/stxnext_web_claim_gradient-1.svg)
+
 ## Other media
 
 * https://instagram.com/maciej.j.u Baking & making
