@@ -19,9 +19,9 @@ At the moment working @ ![STX Next](https://www.stxnext.com/hubfs/stxnext_web_cl
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#39](https://github.com/alirezamika/autoscraper/issues/39) in [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)
-2. 🗣 Commented on [#834](https://github.com/comunica/comunica/issues/834) in [comunica/comunica](https://github.com/comunica/comunica)
-3. ❗️ Opened issue [#834](https://github.com/comunica/comunica/issues/834) in [comunica/comunica](https://github.com/comunica/comunica)
-4. 💪 Opened PR [#338](https://github.com/thunlp/OpenNRE/pull/338) in [thunlp/OpenNRE](https://github.com/thunlp/OpenNRE)
-5. 💪 Opened PR [#83](https://github.com/informagi/REL/pull/83) in [informagi/REL](https://github.com/informagi/REL)
+1. 🗣 Commented on [#211](https://github.com/isaacs/node-graceful-fs/issues/211) in [isaacs/node-graceful-fs](https://github.com/isaacs/node-graceful-fs)
+2. 🗣 Commented on [#39](https://github.com/alirezamika/autoscraper/issues/39) in [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)
+3. 🗣 Commented on [#834](https://github.com/comunica/comunica/issues/834) in [comunica/comunica](https://github.com/comunica/comunica)
+4. ❗️ Opened issue [#834](https://github.com/comunica/comunica/issues/834) in [comunica/comunica](https://github.com/comunica/comunica)
+5. 💪 Opened PR [#338](https://github.com/thunlp/OpenNRE/pull/338) in [thunlp/OpenNRE](https://github.com/thunlp/OpenNRE)
 <!--END_SECTION:activity-->
