@@ -19,9 +19,9 @@ At the moment working @ ![STX Next](https://www.stxnext.com/hubfs/stxnext_web_cl
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/rooterkyberian/polycal/issues/2) in [rooterkyberian/polycal](https://github.com/rooterkyberian/polycal)
-2. ❗️ Opened issue [#1](https://github.com/rooterkyberian/polycal/issues/1) in [rooterkyberian/polycal](https://github.com/rooterkyberian/polycal)
-3. 🗣 Commented on [#211](https://github.com/isaacs/node-graceful-fs/issues/211) in [isaacs/node-graceful-fs](https://github.com/isaacs/node-graceful-fs)
-4. 🗣 Commented on [#39](https://github.com/alirezamika/autoscraper/issues/39) in [alirezamika/autoscraper](https://github.com/alirezamika/autoscraper)
-5. 🗣 Commented on [#834](https://github.com/comunica/comunica/issues/834) in [comunica/comunica](https://github.com/comunica/comunica)
+1. ❗️ Closed issue [#1](https://github.com/rooterkyberian/polycal/issues/1) in [rooterkyberian/polycal](https://github.com/rooterkyberian/polycal)
+2. 🗣 Commented on [#1](https://github.com/rooterkyberian/polycal/issues/1) in [rooterkyberian/polycal](https://github.com/rooterkyberian/polycal)
+3. 💪 Opened PR [#59](https://github.com/makyo/polycul.es/pull/59) in [makyo/polycul.es](https://github.com/makyo/polycul.es)
+4. ❗️ Opened issue [#2](https://github.com/rooterkyberian/polycal/issues/2) in [rooterkyberian/polycal](https://github.com/rooterkyberian/polycal)
+5. ❗️ Opened issue [#1](https://github.com/rooterkyberian/polycal/issues/1) in [rooterkyberian/polycal](https://github.com/rooterkyberian/polycal)
 <!--END_SECTION:activity-->
