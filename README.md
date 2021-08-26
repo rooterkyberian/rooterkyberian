@@ -20,8 +20,8 @@ At the moment working @ ![STX Next](https://www.stxnext.com/hubfs/stxnext_web_cl
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9018](https://github.com/pytest-dev/pytest/issues/9018) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-2. 🎉 Merged PR [#36](https://github.com/stxnext/pymongo-migrate/pull/36) in [stxnext/pymongo-migrate](https://github.com/stxnext/pymongo-migrate)
-3. 💪 Opened PR [#36](https://github.com/stxnext/pymongo-migrate/pull/36) in [stxnext/pymongo-migrate](https://github.com/stxnext/pymongo-migrate)
-4. ❗️ Opened issue [#9018](https://github.com/pytest-dev/pytest/issues/9018) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-5. ❗️ Closed issue [#1](https://github.com/rooterkyberian/polycal/issues/1) in [rooterkyberian/polycal](https://github.com/rooterkyberian/polycal)
+2. 🗣 Commented on [#9018](https://github.com/pytest-dev/pytest/issues/9018) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
+3. 🎉 Merged PR [#36](https://github.com/stxnext/pymongo-migrate/pull/36) in [stxnext/pymongo-migrate](https://github.com/stxnext/pymongo-migrate)
+4. 💪 Opened PR [#36](https://github.com/stxnext/pymongo-migrate/pull/36) in [stxnext/pymongo-migrate](https://github.com/stxnext/pymongo-migrate)
+5. ❗️ Opened issue [#9018](https://github.com/pytest-dev/pytest/issues/9018) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
 <!--END_SECTION:activity-->
