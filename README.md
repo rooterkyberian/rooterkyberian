@@ -19,9 +19,9 @@ At the moment working @ ![STX Next](https://www.stxnext.com/hubfs/stxnext_web_cl
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/rooterkyberian/polycal/issues/3) in [rooterkyberian/polycal](https://github.com/rooterkyberian/polycal)
-2. 🗣 Commented on [#7](https://github.com/sportsracer/cruziwords/issues/7) in [sportsracer/cruziwords](https://github.com/sportsracer/cruziwords)
-3. 🗣 Commented on [#9018](https://github.com/pytest-dev/pytest/issues/9018) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-4. 🗣 Commented on [#9018](https://github.com/pytest-dev/pytest/issues/9018) in [pytest-dev/pytest](https://github.com/pytest-dev/pytest)
-5. 🎉 Merged PR [#36](https://github.com/stxnext/pymongo-migrate/pull/36) in [stxnext/pymongo-migrate](https://github.com/stxnext/pymongo-migrate)
+1. 💪 Opened PR [#4275](https://github.com/OctoPrint/OctoPrint/pull/4275) in [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint)
+2. 🎉 Merged PR [#38](https://github.com/stxnext/pymongo-migrate/pull/38) in [stxnext/pymongo-migrate](https://github.com/stxnext/pymongo-migrate)
+3. 💪 Opened PR [#38](https://github.com/stxnext/pymongo-migrate/pull/38) in [stxnext/pymongo-migrate](https://github.com/stxnext/pymongo-migrate)
+4. ❌ Closed PR [#37](https://github.com/stxnext/pymongo-migrate/pull/37) in [stxnext/pymongo-migrate](https://github.com/stxnext/pymongo-migrate)
+5. 💪 Opened PR [#37](https://github.com/stxnext/pymongo-migrate/pull/37) in [stxnext/pymongo-migrate](https://github.com/stxnext/pymongo-migrate)
 <!--END_SECTION:activity-->
