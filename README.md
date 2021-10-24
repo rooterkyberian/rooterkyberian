@@ -19,9 +19,9 @@ At the moment working @ ![STX Next](https://www.stxnext.com/hubfs/stxnext_web_cl
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4275](https://github.com/OctoPrint/OctoPrint/pull/4275) in [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint)
-2. 🎉 Merged PR [#38](https://github.com/stxnext/pymongo-migrate/pull/38) in [stxnext/pymongo-migrate](https://github.com/stxnext/pymongo-migrate)
-3. 💪 Opened PR [#38](https://github.com/stxnext/pymongo-migrate/pull/38) in [stxnext/pymongo-migrate](https://github.com/stxnext/pymongo-migrate)
-4. ❌ Closed PR [#37](https://github.com/stxnext/pymongo-migrate/pull/37) in [stxnext/pymongo-migrate](https://github.com/stxnext/pymongo-migrate)
-5. 💪 Opened PR [#37](https://github.com/stxnext/pymongo-migrate/pull/37) in [stxnext/pymongo-migrate](https://github.com/stxnext/pymongo-migrate)
+1. ❌ Closed PR [#4275](https://github.com/OctoPrint/OctoPrint/pull/4275) in [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint)
+2. 🗣 Commented on [#4275](https://github.com/OctoPrint/OctoPrint/issues/4275) in [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint)
+3. 💪 Opened PR [#4275](https://github.com/OctoPrint/OctoPrint/pull/4275) in [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint)
+4. 🎉 Merged PR [#38](https://github.com/stxnext/pymongo-migrate/pull/38) in [stxnext/pymongo-migrate](https://github.com/stxnext/pymongo-migrate)
+5. 💪 Opened PR [#38](https://github.com/stxnext/pymongo-migrate/pull/38) in [stxnext/pymongo-migrate](https://github.com/stxnext/pymongo-migrate)
 <!--END_SECTION:activity-->
