@@ -19,9 +19,9 @@ At the moment working @ ![STX Next](https://www.stxnext.com/hubfs/stxnext_web_cl
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4289](https://github.com/OctoPrint/OctoPrint/pull/4289) in [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint)
-2. 🗣 Commented on [#4276](https://github.com/OctoPrint/OctoPrint/issues/4276) in [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint)
-3. 💪 Opened PR [#1739](https://github.com/sqlfluff/sqlfluff/pull/1739) in [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff)
-4. 💪 Opened PR [#2580](https://github.com/MongoEngine/mongoengine/pull/2580) in [MongoEngine/mongoengine](https://github.com/MongoEngine/mongoengine)
-5. 💪 Opened PR [#3035](https://github.com/searx/searx/pull/3035) in [searx/searx](https://github.com/searx/searx)
+1. 🗣 Commented on [#4276](https://github.com/OctoPrint/OctoPrint/issues/4276) in [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint)
+2. 💪 Opened PR [#4289](https://github.com/OctoPrint/OctoPrint/pull/4289) in [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint)
+3. 🗣 Commented on [#4276](https://github.com/OctoPrint/OctoPrint/issues/4276) in [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint)
+4. 💪 Opened PR [#1739](https://github.com/sqlfluff/sqlfluff/pull/1739) in [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff)
+5. 💪 Opened PR [#2580](https://github.com/MongoEngine/mongoengine/pull/2580) in [MongoEngine/mongoengine](https://github.com/MongoEngine/mongoengine)
 <!--END_SECTION:activity-->
