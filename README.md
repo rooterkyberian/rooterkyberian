@@ -19,9 +19,9 @@ At the moment working @ ![STX Next](https://www.stxnext.com/hubfs/stxnext_web_cl
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1824](https://github.com/jordansissel/fpm/issues/1824) in [jordansissel/fpm](https://github.com/jordansissel/fpm)
+1. 🗣 Commented on [#1771](https://github.com/jordansissel/fpm/issues/1771) in [jordansissel/fpm](https://github.com/jordansissel/fpm)
 2. 🗣 Commented on [#1824](https://github.com/jordansissel/fpm/issues/1824) in [jordansissel/fpm](https://github.com/jordansissel/fpm)
-3. 💪 Opened PR [#84](https://github.com/hadialqattan/pycln/pull/84) in [hadialqattan/pycln](https://github.com/hadialqattan/pycln)
-4. 🗣 Commented on [#4289](https://github.com/OctoPrint/OctoPrint/issues/4289) in [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint)
-5. 🗣 Commented on [#4276](https://github.com/OctoPrint/OctoPrint/issues/4276) in [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint)
+3. 🗣 Commented on [#1824](https://github.com/jordansissel/fpm/issues/1824) in [jordansissel/fpm](https://github.com/jordansissel/fpm)
+4. 💪 Opened PR [#84](https://github.com/hadialqattan/pycln/pull/84) in [hadialqattan/pycln](https://github.com/hadialqattan/pycln)
+5. 🗣 Commented on [#4289](https://github.com/OctoPrint/OctoPrint/issues/4289) in [OctoPrint/OctoPrint](https://github.com/OctoPrint/OctoPrint)
 <!--END_SECTION:activity-->
