@@ -19,9 +19,9 @@ At the moment working @ ![STX Next](https://www.stxnext.com/hubfs/stxnext_web_cl
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#37](https://github.com/stxnext/pymongo-migrate/pull/37) in [stxnext/pymongo-migrate](https://github.com/stxnext/pymongo-migrate)
-2. ❌ Reopened PR [#37](https://github.com/stxnext/pymongo-migrate/pull/37) in [stxnext/pymongo-migrate](https://github.com/stxnext/pymongo-migrate)
-3. 🗣 Commented on [#1771](https://github.com/jordansissel/fpm/issues/1771) in [jordansissel/fpm](https://github.com/jordansissel/fpm)
+1. 🎉 Merged PR [#39](https://github.com/rooterkyberian/elen/pull/39) in [rooterkyberian/elen](https://github.com/rooterkyberian/elen)
+2. 🎉 Merged PR [#37](https://github.com/stxnext/pymongo-migrate/pull/37) in [stxnext/pymongo-migrate](https://github.com/stxnext/pymongo-migrate)
+3. ❌ Reopened PR [#37](https://github.com/stxnext/pymongo-migrate/pull/37) in [stxnext/pymongo-migrate](https://github.com/stxnext/pymongo-migrate)
 4. 🗣 Commented on [#1771](https://github.com/jordansissel/fpm/issues/1771) in [jordansissel/fpm](https://github.com/jordansissel/fpm)
-5. 🗣 Commented on [#1808](https://github.com/jordansissel/fpm/issues/1808) in [jordansissel/fpm](https://github.com/jordansissel/fpm)
+5. 🗣 Commented on [#1771](https://github.com/jordansissel/fpm/issues/1771) in [jordansissel/fpm](https://github.com/jordansissel/fpm)
 <!--END_SECTION:activity-->
