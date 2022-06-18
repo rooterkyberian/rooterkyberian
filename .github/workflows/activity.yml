@@ -10,6 +10,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: jamesgeorge007/github-activity-readme@338f4f82e1476c1519ab946bacba0ff3d8a23b92
+      - uses: bastianleicht/github-activity-readme@fd8d245fdc2b07b775144feb20f258e0336dd3d8
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
