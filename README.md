@@ -19,9 +19,9 @@ At the moment working @ ![STX Next](https://www.stxnext.com/hubfs/stxnext_web_cl
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#660](https://github.com/tiangolo/fastapi/issues/660) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
-2. 🗣 Commented on [#95](https://github.com/ijl/orjson/issues/95) in [ijl/orjson](https://github.com/ijl/orjson)
+1. 🗣 Commented on [#73974](https://github.com/python/cpython/issues/73974) in [python/cpython](https://github.com/python/cpython)
+2. 🗣 Commented on [#660](https://github.com/tiangolo/fastapi/issues/660) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
 3. 🗣 Commented on [#95](https://github.com/ijl/orjson/issues/95) in [ijl/orjson](https://github.com/ijl/orjson)
-4. 🗣 Commented on [#12343](https://github.com/microsoft/onnxruntime/issues/12343) in [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
-5. 🗣 Commented on [#795](https://github.com/actions/stale/issues/795) in [actions/stale](https://github.com/actions/stale)
+4. 🗣 Commented on [#95](https://github.com/ijl/orjson/issues/95) in [ijl/orjson](https://github.com/ijl/orjson)
+5. 🗣 Commented on [#12343](https://github.com/microsoft/onnxruntime/issues/12343) in [microsoft/onnxruntime](https://github.com/microsoft/onnxruntime)
 <!--END_SECTION:activity-->
