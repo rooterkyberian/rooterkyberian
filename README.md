@@ -19,9 +19,9 @@ At the moment working @ ![STX Next](https://www.stxnext.com/hubfs/stxnext_web_cl
 
 ### Latest GitHub activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#7](https://github.com/beatsbears/tarsafe/issues/7) in [beatsbears/tarsafe](https://github.com/beatsbears/tarsafe)
-2. 💪 Opened PR [#7](https://github.com/beatsbears/tarsafe/pull/7) in [beatsbears/tarsafe](https://github.com/beatsbears/tarsafe)
-3. 🗣 Commented on [#73974](https://github.com/python/cpython/issues/73974) in [python/cpython](https://github.com/python/cpython)
-4. 🗣 Commented on [#660](https://github.com/tiangolo/fastapi/issues/660) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
-5. 🗣 Commented on [#95](https://github.com/ijl/orjson/issues/95) in [ijl/orjson](https://github.com/ijl/orjson)
+1. ❗️ Opened issue [#1](https://github.com/Dyr-El/AdventOfCode2022/issues/1) in [Dyr-El/AdventOfCode2022](https://github.com/Dyr-El/AdventOfCode2022)
+2. 🗣 Commented on [#7](https://github.com/beatsbears/tarsafe/issues/7) in [beatsbears/tarsafe](https://github.com/beatsbears/tarsafe)
+3. 💪 Opened PR [#7](https://github.com/beatsbears/tarsafe/pull/7) in [beatsbears/tarsafe](https://github.com/beatsbears/tarsafe)
+4. 🗣 Commented on [#73974](https://github.com/python/cpython/issues/73974) in [python/cpython](https://github.com/python/cpython)
+5. 🗣 Commented on [#660](https://github.com/tiangolo/fastapi/issues/660) in [tiangolo/fastapi](https://github.com/tiangolo/fastapi)
 <!--END_SECTION:activity-->
