@@ -3,9 +3,9 @@
 Avid Python 🐍 and Linux 🐧 user.
 Maker 🛠 .
 
-Work related contact: https://linkedin.com/in/urbanskimaciej
+If not nerding out, then 🚲🎲🚭🍰🏋️🌈Ⓥ .
 
-At the moment working @ ![STX Next](https://www.stxnext.com/hubfs/stxnext_web_claim_gradient-1.svg)
+Work related contact: **https://linkedin.com/in/urbanskimaciej**
 
 ## Other media
 
@@ -15,6 +15,7 @@ At the moment working @ ![STX Next](https://www.stxnext.com/hubfs/stxnext_web_cl
 ## Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=rooterkyberian&hide_title=true&show_icons=true&count_private=true&theme=graywhite)
+
 ![](https://komarev.com/ghpvc/?username=rooterkyberian&color=lightgray&style=flat-square)
 
 ### Latest GitHub activity
