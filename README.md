@@ -9,8 +9,8 @@ At the moment working @ ![STX Next](https://www.stxnext.com/hubfs/stxnext_web_cl
 
 ## Other media
 
-* https://instagram.com/maciej.j.u Baking & making
-* https://thingiverse.com/rooter_k 3D models
+- https://instagram.com/maciej.j.u Baking & making
+- https://thingiverse.com/rooter_k 3D models
 
 ## Stats
 
@@ -18,6 +18,7 @@ At the moment working @ ![STX Next](https://www.stxnext.com/hubfs/stxnext_web_cl
 ![](https://komarev.com/ghpvc/?username=rooterkyberian&color=lightgray&style=flat-square)
 
 ### Latest GitHub activity
+
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#40](https://github.com/rooterkyberian/elen/pull/40) in [rooterkyberian/elen](https://github.com/rooterkyberian/elen)
 2. ❗️ Opened issue [#1](https://github.com/Dyr-El/AdventOfCode2022/issues/1) in [Dyr-El/AdventOfCode2022](https://github.com/Dyr-El/AdventOfCode2022)
